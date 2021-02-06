@@ -7,3 +7,4 @@ PyExcelerate==0.9.0
 openpyxl==3.0.5
 xlrd==1.2.0
 iatikit==2.3.0
+iatiflattener==0.1.4
