@@ -1,2 +1,2 @@
 iatikit==3.0.3
-iatiflattener==0.9b5
+iatiflattener==0.9b6
