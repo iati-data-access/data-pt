@@ -11,5 +11,5 @@ if __name__ == "__main__":
     FlattenIATIData(refresh_rates=True,
         langs=langs)
     GroupFlatIATIData(langs=langs)
-    data_quality_report()
+    #data_quality_report()
     shutil.rmtree('output/csv/')
