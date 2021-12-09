@@ -12,5 +12,5 @@ if __name__ == "__main__":
         langs=langs)
     shutil.rmtree('__iatikitcache__')
     GroupFlatIATIData(langs=langs)
-    data_quality_report(lang='pt')
+    #data_quality_report()
     shutil.rmtree('output/csv/')
